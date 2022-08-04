@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Bocoran Game Slot Online Terjitu di Indonesia" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Daftar sekarang dan dapatkan informasi seputar <a href="https://umbria-verde.net/">rtp slot</a> gacor di Terbit4D.
         </p>
       </main>
 
